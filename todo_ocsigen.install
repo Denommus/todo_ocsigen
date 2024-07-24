@@ -1,0 +1,15 @@
+lib: [
+  "_build/install/default/lib/todo_ocsigen/META"
+  "_build/install/default/lib/todo_ocsigen/dune-package"
+  "_build/install/default/lib/todo_ocsigen/opam"
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.a"
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.cma"
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.cmi"
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.cmt"
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.cmx"
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.cmxa"
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.ml"
+]
+libexec: [
+  "_build/install/default/lib/todo_ocsigen/todo_ocsigen.cmxs"
+]
